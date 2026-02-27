@@ -5,18 +5,31 @@ name: rust-skill
 description: |
   Comprehensive Rust programming expert skill system. Handles all Rust topics: ownership, lifetimes,
   async/await, FFI, performance, web development, embedded systems, and more. Auto-routes to 40+
-  specialized sub-skills based on your question.
-triggers:
-  - rust
-  - cargo
-  - ownership
-  - borrow
-  - lifetime
-  - async
-  - tokio
-  - compile error
-  - unsafe
-  - FFI
+  specialized sub-skills based on your question. Use this skill whenever the user mentions Rust,
+  cargo, compilation errors, ownership, borrowing, lifetimes, async programming, tokio, unsafe
+  code, FFI, web development with Rust, or any Rust-specific topic.
+metadata:
+  triggers:
+    - rust
+    - cargo
+    - ownership
+    - borrow
+    - lifetime
+    - lifetime
+    - async
+    - tokio
+    - compile error
+    - unsafe
+    - FFI
+    - axum
+    - actix
+    - rocket
+    - hyper
+    - serde
+    - clippy
+    - wasm
+    - no_std
+    - embedded
 ---
 
 # Rust Expert Skill System

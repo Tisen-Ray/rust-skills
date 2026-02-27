@@ -13,9 +13,5 @@
       "Bash(git push:*)",
       "Bash(xargs -r -n 1 git update-ref -d)"
     ]
-  },
-  "enableAllProjectMcpServers": true,
-  "enabledMcpjsonServers": [
-    "rust-skill"
-  ]
+  }
 }
