@@ -1,0 +1,50 @@
+{
+  "name": "rust-skills",
+  "owner": {
+    "name": "huiali",
+    "email": "huiali@hotmail.com"
+  },
+  "metadata": {
+    "description": "Comprehensive Rust programming expert skill system with 40+ specialized skills for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "rust-skills",
+      "source": "./",
+      "description": "Complete Rust skill system with 40+ specialized skills covering ownership, lifetimes, async/await, FFI, performance, web development, embedded systems, and more. Auto-routes to the right skill based on your question context.",
+      "author": {
+        "name": "huiali"
+      },
+      "homepage": "https://github.com/huiali/rust-skills#readme",
+      "repository": "https://github.com/huiali/rust-skills",
+      "license": "MIT",
+      "keywords": [
+        "rust",
+        "ownership",
+        "lifetime",
+        "async",
+        "tokio",
+        "ffi",
+        "web",
+        "embedded",
+        "performance",
+        "skills"
+      ],
+      "category": "programming",
+      "tags": [
+        "rust",
+        "rust-lang",
+        "ownership",
+        "lifetime",
+        "async",
+        "tokio",
+        "ffi",
+        "web",
+        "embedded",
+        "performance",
+        "skills",
+        "development"
+      ]
+    }
+  ]
+}

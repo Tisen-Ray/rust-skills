@@ -1,0 +1,28 @@
+{
+  "name": "rust-skills",
+  "version": "1.0.0",
+  "description": "Comprehensive Rust programming expert skill system with 40+ specialized skills covering ownership, lifetimes, async/await, FFI, performance, web development, embedded systems, and more.",
+  "author": {
+    "name": "huiali",
+    "email": "huiali@hotmail.com",
+    "url": "https://github.com/huiali"
+  },
+  "homepage": "https://github.com/huiali/rust-skills#readme",
+  "repository": "https://github.com/huiali/rust-skills",
+  "license": "MIT",
+  "keywords": [
+    "rust",
+    "rust-lang",
+    "ownership",
+    "lifetime",
+    "async",
+    "tokio",
+    "ffi",
+    "web",
+    "embedded",
+    "skills",
+    "programming",
+    "development"
+  ],
+  "skills": ["./skills/"]
+}
